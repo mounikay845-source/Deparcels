@@ -9,15 +9,9 @@
 
 ---
 
-## 🌐 The DPARCELS Ecosystem (Live Deployments)
+## 🌐 Live Application
 
-The platform is designed with a multi-role architecture connecting customers, delivery riders, and operations administrators:
-
-| Portal | Role | Live URL | Repository |
-| :--- | :--- | :--- | :--- |
-| **Customer App** | Book deliveries, calculate fares, track shipments | 🚀 [deparcels.vercel.app](https://deparcels.vercel.app) | [Deparcels](https://github.com/mounikay845-source/Deparcels) |
-| **Admin Dashboard** | Operations monitoring, order dispatch, logistics analytics | 📊 [d-admin-page.vercel.app](https://d-admin-page.vercel.app) | [DAdminPage](https://github.com/mounikay845-source/DAdminPage) |
-| **Rider Partner App** | Order acceptance, navigation, pickup/delivery confirmation | 🛵 [d-rider.vercel.app](https://d-rider.vercel.app) | [DRider](https://github.com/mounikay845-source/DRider) |
+👉 **[https://deparcels.vercel.app](https://deparcels.vercel.app)**
 
 ---
 
